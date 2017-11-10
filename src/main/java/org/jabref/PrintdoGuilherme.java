@@ -1,0 +1,3 @@
+class Printer{
+	public Printer(){}
+}
